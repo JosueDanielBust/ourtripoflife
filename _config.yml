@@ -1,0 +1,9 @@
+# Site Settings
+title: Our trip of Life
+description: ""
+baseurl: "/"
+url: "http://ourtripof.life/"
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
