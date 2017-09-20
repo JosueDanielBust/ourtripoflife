@@ -19,3 +19,8 @@ window.onload = function() {
         ]
     });
 };
+
+$('#next').click(function() {
+    $('.first-step').toggleClass('hidden');
+    $('.second-step').toggleClass('hidden');
+});
